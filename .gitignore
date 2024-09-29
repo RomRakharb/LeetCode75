@@ -1,6 +1,6 @@
 /target
 .envrc
-.github
+/.github
 default.nix
 flake.nix
 flake.lock
