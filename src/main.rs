@@ -1,3 +1,7 @@
+mod array_string;
+
+use crate::array_string::merge_strings_alternately;
+
 fn main() {
-    println!("Hello, world!");
+    merge_strings_alternately::test();
 }
