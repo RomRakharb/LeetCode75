@@ -1,8 +1,3 @@
 /target
 Cargo.lock
-.envrc
-/.github
-default.nix
 flake.lock
-flake.nix
-shell.nix
